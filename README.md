@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ayaz3s
-- 👀 I’m interested in web development
+- 👀 I’m interested in web development and Machine learning
 - 📫 you can contact me on ayaxkhan11@gmail.com
 
 <!---
